@@ -9,7 +9,7 @@ Heriberto Juache
 Email: h.juache@csu.fullerton.edu
 
 Jose Muniz
-Email:
+Email:jmuniz900@csu.fullerton.edu
 
 RJ Andaya
 Email:
