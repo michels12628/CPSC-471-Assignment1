@@ -12,7 +12,7 @@ Jose Muniz
 Email:jmuniz900@csu.fullerton.edu
 
 RJ Andaya
-Email:
+Email: rjandaya98@csu.fullerton.edu
 
 Programming Language Used:
 C++
